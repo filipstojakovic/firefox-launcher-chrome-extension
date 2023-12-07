@@ -1,0 +1,15 @@
+C:\Users\filip\source\repos\urlProtocol\urlProtocol\bin\Debug\net7.0\urlProtocol.exe
+C:\Users\filip\source\repos\urlProtocol\urlProtocol\bin\Debug\net7.0\urlProtocol.deps.json
+C:\Users\filip\source\repos\urlProtocol\urlProtocol\bin\Debug\net7.0\urlProtocol.runtimeconfig.json
+C:\Users\filip\source\repos\urlProtocol\urlProtocol\bin\Debug\net7.0\urlProtocol.dll
+C:\Users\filip\source\repos\urlProtocol\urlProtocol\bin\Debug\net7.0\urlProtocol.pdb
+C:\Users\filip\source\repos\urlProtocol\urlProtocol\obj\Debug\net7.0\urlProtocol.csproj.AssemblyReference.cache
+C:\Users\filip\source\repos\urlProtocol\urlProtocol\obj\Debug\net7.0\urlProtocol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\source\repos\urlProtocol\urlProtocol\obj\Debug\net7.0\urlProtocol.AssemblyInfoInputs.cache
+C:\Users\filip\source\repos\urlProtocol\urlProtocol\obj\Debug\net7.0\urlProtocol.AssemblyInfo.cs
+C:\Users\filip\source\repos\urlProtocol\urlProtocol\obj\Debug\net7.0\urlProtocol.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\urlProtocol\urlProtocol\obj\Debug\net7.0\urlProtocol.dll
+C:\Users\filip\source\repos\urlProtocol\urlProtocol\obj\Debug\net7.0\refint\urlProtocol.dll
+C:\Users\filip\source\repos\urlProtocol\urlProtocol\obj\Debug\net7.0\urlProtocol.pdb
+C:\Users\filip\source\repos\urlProtocol\urlProtocol\obj\Debug\net7.0\urlProtocol.genruntimeconfig.cache
+C:\Users\filip\source\repos\urlProtocol\urlProtocol\obj\Debug\net7.0\ref\urlProtocol.dll

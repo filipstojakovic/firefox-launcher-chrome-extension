@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FirefoxLuncher": {
+      "commandName": "Project",
+      "commandLineArgs": "ff://www.google.com--private"
+    }
+  }
+}

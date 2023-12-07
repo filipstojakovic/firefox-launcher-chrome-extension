@@ -1,0 +1,15 @@
+C:\Users\filip\source\repos\FirefoxLuncher\FirefoxLuncher\bin\Debug\net7.0\FirefoxLuncher.exe
+C:\Users\filip\source\repos\FirefoxLuncher\FirefoxLuncher\bin\Debug\net7.0\FirefoxLuncher.deps.json
+C:\Users\filip\source\repos\FirefoxLuncher\FirefoxLuncher\bin\Debug\net7.0\FirefoxLuncher.runtimeconfig.json
+C:\Users\filip\source\repos\FirefoxLuncher\FirefoxLuncher\bin\Debug\net7.0\FirefoxLuncher.dll
+C:\Users\filip\source\repos\FirefoxLuncher\FirefoxLuncher\bin\Debug\net7.0\FirefoxLuncher.pdb
+C:\Users\filip\source\repos\FirefoxLuncher\FirefoxLuncher\obj\Debug\net7.0\FirefoxLuncher.csproj.AssemblyReference.cache
+C:\Users\filip\source\repos\FirefoxLuncher\FirefoxLuncher\obj\Debug\net7.0\FirefoxLuncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\source\repos\FirefoxLuncher\FirefoxLuncher\obj\Debug\net7.0\FirefoxLuncher.AssemblyInfoInputs.cache
+C:\Users\filip\source\repos\FirefoxLuncher\FirefoxLuncher\obj\Debug\net7.0\FirefoxLuncher.AssemblyInfo.cs
+C:\Users\filip\source\repos\FirefoxLuncher\FirefoxLuncher\obj\Debug\net7.0\FirefoxLuncher.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\FirefoxLuncher\FirefoxLuncher\obj\Debug\net7.0\FirefoxLuncher.dll
+C:\Users\filip\source\repos\FirefoxLuncher\FirefoxLuncher\obj\Debug\net7.0\refint\FirefoxLuncher.dll
+C:\Users\filip\source\repos\FirefoxLuncher\FirefoxLuncher\obj\Debug\net7.0\FirefoxLuncher.pdb
+C:\Users\filip\source\repos\FirefoxLuncher\FirefoxLuncher\obj\Debug\net7.0\FirefoxLuncher.genruntimeconfig.cache
+C:\Users\filip\source\repos\FirefoxLuncher\FirefoxLuncher\obj\Debug\net7.0\ref\FirefoxLuncher.dll

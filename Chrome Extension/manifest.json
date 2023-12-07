@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Open with Firefox",
+  "version": "1.0",
+  "description": "Open YouTube video in Firefox",
+  "icons": {
+    "48": "icon.jpg"
+  },
+  "permissions": ["contextMenus"],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
