@@ -32,7 +32,10 @@ public class Program
 		try
 		{
 			ProcessStartInfo psi = new ProcessStartInfo(path);
-			psi.ArgumentList.Add(isPrivate ? "-private-window" : "");
+			if (isPrivate)
+			{
+				psi.ArgumentList.Add("-private-window");
+			}
 			psi.ArgumentList.Add(url);
 			Process.Start(psi);
 		}
