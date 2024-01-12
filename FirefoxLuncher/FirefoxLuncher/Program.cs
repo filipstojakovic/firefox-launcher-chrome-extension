@@ -5,8 +5,9 @@ public class Program
 {
 	static void Main(string[] args)
 	{
-		// Path to the Firefox executable
-		string firefoxPath = "C:\\Program Files\\Mozilla Firefox\\firefox.exe ";// -new-tab ";
+		// Default path to the Firefox executable
+		string programFilesDirectory = Environment.GetFolderPath(Environment.SpecialFolder.ProgramFiles);
+		string firefoxPath = programFilesDirectory + "\\Mozilla Firefox\\firefox.exe ";
 
 		string urlToOpen = "";
 		bool isPrivate = false;
